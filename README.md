@@ -16,6 +16,7 @@ To be more specific, it is about the network speed of mobile devices around the 
   - What insights can we get from this analysis?
 
 ## Preparing the data
+* Download the latest (2020 and 2021) datasets of mobile network speedtest from the [site](https://www.kaggle.com/datasets/dimitrisangelide/speedtest-data-by-ookla?select=mobile_year_2021_quarter_04.csv)
 
 ## Processing the data
 
