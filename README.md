@@ -10,8 +10,8 @@ To be more specific, it is about the network speed of mobile devices around the 
     - Ookla is the global leader in network intelligence and connectivity insights
     - The company owns the world-renowned Speedtest platform
 * How to effectively visualize the analyzed data? 
-  - Building a dashboard showing the SoMN data on a geographical scale
-  - Displaying the data trend as charts addition to the geographics on the dashboard
+  - Mapping the SoMN data to a geographical scale
+  - Building a dashboard showing these transformed geographical data
 * ***What can we learn from this?***
   - What insights can we get from this analysis?
 
@@ -30,5 +30,11 @@ To be more specific, it is about the network speed of mobile devices around the 
   - The average latency (ms) tested on mobile devices
 
 ## Visualization
+* Use Power BI to map the processed data to world map to better show the difference and similarity of data based on all sorts of standards
+  - The difference and similarity can be how different or similar the mobile network conditions are among the enlisted countries
+  - The standards are basically the ones mentioned in the ***Analysis*** section
+* Import the generated map data into a Streamlit powered, interactive web-app
+  - The app basically renders function that enables viewers to control the metrics to examine the data in different angles
+  - A cleaner look is provided which only contains necessary features such as description, map data, and toggles for different metrics
 
 ## Insights
