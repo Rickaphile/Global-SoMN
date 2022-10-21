@@ -24,6 +24,10 @@ To be more specific, it is about the network speed of mobile devices around the 
 * Check any duplicated data instances
 
 ## Analysis
+* Examine and compare certain metrics in different countries
+  - The average speed of uploading and downloading
+  - The number of devices and tests ran on the devices
+  - The average latency (ms) tested on mobile devices
 
 ## Visualization
 
