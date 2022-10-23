@@ -30,7 +30,7 @@ To be more specific, it is about the network speed of mobile devices around the 
   - The average latency (ms) tested on mobile devices
 
 ## Visualization
-* Use Power BI to map the processed data to world map to better show the difference and similarity of data based on all sorts of standards
+* Use Tableau to map the processed data to world map to better show the difference and similarity of data based on all sorts of standards
   - The difference and similarity can be how different or similar the mobile network conditions are among the enlisted countries
   - The standards are basically the ones mentioned in the ***Analysis*** section
 * Import the generated map data into a Streamlit powered, interactive web-app
