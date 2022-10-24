@@ -34,7 +34,7 @@ To be more specific, it is about the network speed of mobile devices around the 
   - The difference and similarity can be how different or similar the mobile network conditions are among the enlisted countries
   - The standards are basically the ones mentioned in the ***Analysis*** section
 * Import the generated map data into a Streamlit powered, interactive web-app
-  - Contains only necessary features (such as description, map data, and toggles for different metrics) dilvering better view quality
+  - Contains only necessary features (such as description, map data, and toggles for different metrics) delivering better view quality
   - The toggles enable viewers to control the metrics to examine the data in different angles
 
 ## Insights
