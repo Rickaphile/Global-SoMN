@@ -38,3 +38,14 @@ To be more specific, it is about the network speed of mobile devices around the 
   - The toggles enable viewers to control the metrics to examine the data in different angles
 
 ## Insights
+* It is clear that there are multiple countries with significant mobile nerwork condition
+  - Average Download Speed (Kbps)
+    - Korea, China, Iceland, Canada, Australia, Saudi Arabia
+  - Average Upload Speed (Kbps)
+    - China, Korea, Denmark, Iceland, Saudi Arabia
+  - Number of Devices Tested
+    - India, United States, Russia, China, Brazil
+* It is also clear that there are countries with undesirable mobile network condition
+  - Average Latency (Ms)
+    - Central African Republic, North Korea, Denmark, Niger
+* Examining the conclusion above, we can see that China, Korea, Iceland and Saudi Arabia are the countries with the best mobile network condition. Since their overall download speed and upload speed are top-notch and they have decent latency level. What's more, they have a significant amount of devices tested, which means that the results are convincing.
