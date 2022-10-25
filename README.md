@@ -36,7 +36,7 @@ To be more specific, it is about the network speed of mobile devices around the 
 * Import the generated map data into a Streamlit powered, interactive web-app
   - Contains only necessary features (such as description, map data, and toggles for different metrics) delivering better view quality
   - The toggles enable viewers to control the metrics to examine the data in different angles
-* To interact with the map data, have the Viz directory ran locally with command: <pre><code>streamlit run app.py</code></pre>
+* To interact with the map data, please have the Viz directory ran locally with command: <pre><code>streamlit run app.py</code></pre>
 
 ## Insights
 * It is clear that there are multiple countries with significant mobile nerwork condition
