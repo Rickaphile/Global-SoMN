@@ -49,3 +49,6 @@ To be more specific, it is about the network speed of mobile devices around the 
   - Average Latency (Ms)
     - Central African Republic, North Korea, Denmark, Niger
 * Examining the conclusion above, we can see that China, Korea, Iceland and Saudi Arabia are the countries with the best mobile network condition. Since their overall download speed and upload speed are top-notch and they have decent latency level. What's more, they have a significant amount of devices tested, which means that the results are convincing.
+* We can also see that countries in Africa and North Korea are the countries with the worst mobile network condition since their network speed is relatively slow and latency is among the highest.
+* An interesting point that is worth noticing is Denmark. Although it has fascinating network speed, its latency is exteremely high. This takes it down from the top-tier list.
+* From the number of devices tested we can see that East Asia (Chine, Korea, etc), South Asia (India, etc), and America (North and South America) boast the biggest mobile network user groups.
